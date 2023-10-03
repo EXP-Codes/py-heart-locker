@@ -1,4 +1,4 @@
-# py-locker
+# py-heart-locker
 
 > python 进程锁定器，避免同一时间重复执行相同的脚本
 
@@ -11,7 +11,7 @@
 
 ## 使用说明
 
-1. 安装: `python -m pip install py-locker`
+1. 安装: `python -m pip install py-heart-locker`
 2. 在代码中使用：
 
 ```python
