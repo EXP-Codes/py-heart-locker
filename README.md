@@ -1,4 +1,4 @@
-# pypi-locker
+# py-locker
 
 > python 进程锁定器，避免同一时间重复执行相同的脚本
 
